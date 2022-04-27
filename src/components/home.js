@@ -40,7 +40,7 @@ function Home() {
 <div class="col mb-4">
 <div class="shadow-sm card flex-row flex-wrap">
 <div class="card-body col-12 col-sm-9">
-<h4 class="card-title text-dark">System Adminstrator Quest</h4>
+<h4 class="card-title text-dark">System Adminstrator</h4>
 <p class="card-text">Qualification: Btech</p>
 <p class="card-text">Skills Required: Java, C++</p>
 <p class="card-text">Year of Passing: 2017</p>
@@ -52,7 +52,7 @@ function Home() {
 <div class="col mb-4">
 <div class="shadow-sm card flex-row flex-wrap">
 <div class="card-body col-12 col-sm-9">
-<h4 class="card-title text-dark">Project Manager UST</h4>
+<h4 class="card-title text-dark">Project Manager</h4>
 <p class="card-text">Qualification: Btech</p>
 <p class="card-text">Skills Required: Python, C++</p>
 <p class="card-text">Year of Passing: 2018</p>
@@ -100,7 +100,7 @@ function Home() {
 <div class="col mb-4">
 <div class="shadow-sm card flex-row flex-wrap">
 <div class="card-body col-12 col-sm-9">
-<h4 class="card-title text-dark">Java Full Stack Developer</h4>
+<h4 class="card-title text-dark">Java Full Stack</h4>
 <p class="card-text">Qualification: Btech</p>
 <p class="card-text">Skills Required: React, Nodejs, Mysql</p>
 <p class="card-text">Year of Passing: 2019</p>
