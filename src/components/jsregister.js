@@ -38,7 +38,7 @@ function Jsregister() {
                                     <label for="pwd " class="font-weight-bold ">Password:</label>
                                     <input required type="password " class="form-control " name="password " id="password" placeholder="Your Password "/>
                                 </div>
-                                <center><button type="submit " class="btn btn-dark mt-4 font-weight-bold">Register Now</button></center>
+                                <center><button type="button" class="btn btn-dark mt-4 font-weight-bold">Register Now</button></center>
                                 </form>
                                 <div class="mt-3 text-center"><Link to="/jslogin">Login to your Account</Link> 👉</div>
                                 </span><br/>

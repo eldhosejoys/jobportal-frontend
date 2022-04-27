@@ -22,7 +22,7 @@ function Jplogin() {
                                     <label for="pwd " class="font-weight-bold ">Password:</label>
                                     <input required type="password" class="form-control " name="password" id="password" placeholder="Your Password "/>
                                 </div>
-                                <center><button type="submit " class="btn btn-dark mt-4 font-weight-bold">Submit to login</button></center>
+                                <center><button type="button" class="btn btn-dark mt-4 font-weight-bold">Submit to login</button></center>
                                 </form>
                                 <div class="mt-3 text-center"><Link to="/jpregister">Register for an account</Link> 👉</div>
                                 </span><br/>
