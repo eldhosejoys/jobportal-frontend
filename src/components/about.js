@@ -2,7 +2,7 @@ function About() {
     return ( 
 <div>
 <header class="py-5 jlogin1">
-        <div class="container px-5 ">
+        <div class="container px-5 py-5">
             <div class="row gx-5 align-items-center justify-content-center ">
                 <div class="col-lg-5 col-xl-6 col-xxl-6 ">
                     <div class="my-5 text-xl-start ">
