@@ -24,36 +24,100 @@ function Home() {
     <section class="py-2 pt-4 " id="features ">
         <div class="container ">
             <div class="row ">
-                <div class="col-md-2 "></div>
-                <div class="col-md-8 ">
+                <div class="col-md-1 "></div>
+                <div class="col-md-10 ">
                     <div class="box text-justify ">
-                        <h2 class="mb-3 text-center ">Job Portal Demo Text</h2>
+                       
+                    <div class="box text-justify ">
+                    <div class="box">
+<h2 class=" text-center class">All about Jobs in Single Portal</h2>
+<p class=" text-center">Now you can find jobs online for free, apply for the jobs available from different companies in India easily with this portal. Find some here. Register an account to start. Then you can add your resume to your profile for job provider to view.</p>
+</div>
 
-                        <p class="text-justify "> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu nisl a sapien dignissim iaculis. Nam sed arcu diam. Nulla hendrerit nibh in nisi lobortis, ut gravida lorem pretium. Pellentesque nec elit mauris. Maecenas volutpat
-                            turpis a condimentum maximus. Nunc ullamcorper augue nulla, vel aliquam risus rhoncus tincidunt. Sed ultricies luctus ligula, et ullamcorper dolor porttitor vel. Duis nec purus at magna condimentum condimentum ac at erat. Donec
-                            placerat laoreet magna quis accumsan. Suspendisse at velit ante. Praesent in enim cursus, faucibus tellus id, malesuada nisi. In imperdiet posuere elit quis dignissim. Integer in metus massa. Aliquam blandit sem mauris, ac
-                            lacinia lorem laoreet et.
-                        </p>
-                        <p class="text-justify "> In suscipit justo libero, id viverra mauris lobortis eu. Maecenas non vehicula ante. Quisque sit amet tellus at orci tincidunt lobortis. Cras non porta nisi. Etiam in lacinia massa, sed euismod nisl. Quisque ante ante, volutpat
-                            eget faucibus a, suscipit non orci. Praesent rhoncus dolor sed dictum finibus. Phasellus purus risus, vestibulum quis viverra ut, feugiat vel velit. Quisque eleifend mattis purus ut consequat. Maecenas tincidunt fringilla tincidunt.
-                            In ut ipsum eget tellus blandit maximus. Vivamus ut tincidunt nunc.
-                        </p>
-                        <p class="text-justify "> Praesent ut efficitur tortor. Mauris fermentum ligula ac arcu feugiat fermentum vel id lectus. Quisque dapibus vitae leo sed malesuada. Sed pharetra, nibh in porttitor sagittis, lectus nulla facilisis massa, eu malesuada enim eros
-                            vitae ex. Duis sed hendrerit ex, in volutpat ipsum. Vestibulum pulvinar venenatis lectus, vitae finibus turpis consectetur facilisis. Ut vitae diam porttitor justo laoreet sollicitudin. Integer et enim sed ante vestibulum commodo.
-                            Aenean ac luctus justo, eu placerat mauris. Sed ac eleifend lorem, vitae pellentesque mi. Maecenas tristique ante in tellus luctus, quis commodo nulla dignissim.
-                        </p>
-                        <p class="text-justify "> Praesent vitae faucibus arcu. Mauris quis volutpat sem. Ut nec fermentum tortor. Phasellus porta risus tellus, sit amet vulputate nisl tempus non. Aliquam ut lacus iaculis est dictum sagittis. Nam porttitor aliquam sem, eget mattis
-                            quam viverra fringilla. Mauris rutrum leo vestibulum, vulputate turpis ac, gravida metus. Maecenas tortor erat, faucibus et auctor vitae, blandit eu sem. Duis dignissim suscipit mauris, sit amet accumsan ligula aliquam a. Vestibulum
-                            in sagittis quam, eget posuere tortor. Aenean venenatis dui ac nisi bibendum lacinia laoreet sed libero. Aenean porta justo fermentum orci lobortis ullamcorper.
-                        </p>
-                        <p class="text-justify "> Vestibulum interdum elit est, in sodales augue rutrum a. Nam congue vitae urna et finibus. Nam volutpat turpis ac mi suscipit euismod. Donec commodo tellus lacus, sed interdum erat placerat at. Etiam et sem tempus, luctus erat
-                            id, vestibulum erat. Duis nisi massa, mollis eu hendrerit sit amet, tempor ut libero. Etiam varius euismod ligula in ultrices. Integer luctus eros a velit rhoncus, ut elementum nulla vehicula. Quisque iaculis nulla vel nisl
-                            finibus, ac ultricies orci sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                        </p>
+<h2 class=" text-center class my-4">Available Jobs</h2>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3">
+
+<div class="col mb-4">
+<div class="shadow-sm card flex-row flex-wrap">
+<div class="card-body col-12 col-sm-9">
+<h4 class="card-title text-dark">System Adminstrator Quest</h4>
+<p class="card-text">Qualification: Btech</p>
+<p class="card-text">Skills Required: Java, C++</p>
+<p class="card-text">Year of Passing: 2017</p>
+<a href="#" class="btn btn-primary">Apply</a>
+</div>
+</div>
+</div>
+
+<div class="col mb-4">
+<div class="shadow-sm card flex-row flex-wrap">
+<div class="card-body col-12 col-sm-9">
+<h4 class="card-title text-dark">Project Manager UST</h4>
+<p class="card-text">Qualification: Btech</p>
+<p class="card-text">Skills Required: Python, C++</p>
+<p class="card-text">Year of Passing: 2018</p>
+<a href="#" class="btn btn-primary">Apply</a>
+</div>
+</div>
+</div>
+
+<div class="col mb-4">
+<div class="shadow-sm card flex-row flex-wrap">
+<div class="card-body col-12 col-sm-9">
+<h4 class="card-title text-dark">Support Desk Engineer</h4>
+<p class="card-text">Qualification: Btech</p>
+<p class="card-text">Skills Required: Android, iOS</p>
+<p class="card-text">Year of Passing: 2018</p>
+<a href="#" class="btn btn-primary">Apply</a>
+</div>
+</div>
+</div>
+
+<div class="col mb-4">
+<div class="shadow-sm card flex-row flex-wrap">
+<div class="card-body col-12 col-sm-9">
+<h4 class="card-title text-dark">Data Anaylist</h4>
+<p class="card-text">Qualification: Btech</p>
+<p class="card-text">Skills Required: Excel, SQL</p>
+<p class="card-text">Year of Passing: 2017</p>
+<a href="#" class="btn btn-primary">Apply</a>
+</div>
+</div>
+</div>
+
+<div class="col mb-4">
+<div class="shadow-sm card flex-row flex-wrap">
+<div class="card-body col-12 col-sm-9">
+<h4 class="card-title text-dark">Python Developer</h4>
+<p class="card-text">Qualification: Btech</p>
+<p class="card-text">Skills Required: Python</p>
+<p class="card-text">Year of Passing: 2018</p>
+<a href="#" class="btn btn-primary">Apply</a>
+</div>
+</div>
+</div>
+
+<div class="col mb-4">
+<div class="shadow-sm card flex-row flex-wrap">
+<div class="card-body col-12 col-sm-9">
+<h4 class="card-title text-dark">Java Full Stack Developer</h4>
+<p class="card-text">Qualification: Btech</p>
+<p class="card-text">Skills Required: React, Nodejs, Mysql</p>
+<p class="card-text">Year of Passing: 2019</p>
+<a href="#" class="btn btn-primary">Apply</a>
+</div>
+</div>
+</div>
+
+</div>
+<p>Job portals, or job boards, are sites where you can advertise jobs and search for resumes. They are an integral part of almost every hiring process and using them effectively will translate into qualified candidates for relatively low costs.</p>
+
+                    </div>
+                       
 
                     </div>
                 </div>
-                <div class="col-md-2 "></div>
+                <div class="col-md-1 "></div>
             </div>
         </div>
     </section>
